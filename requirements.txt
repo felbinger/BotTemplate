@@ -1,4 +1,4 @@
-aiohttp==3.7.3
+aiohttp==3.7.4
 alembic==1.5.2
 discord.py==1.6.0
 flake8==3.8.4
